@@ -1,0 +1,30 @@
+
+
+
+
+
+#main{
+    background-color: white;
+    text-align: center;
+    display: grid;
+    width: 50%;
+    margin: auto;
+    font-family: FreeSerif;
+    font-weight: normal;
+
+}
+img{
+    height: 30px;
+    width: 40px;
+    padding-top: 3px;
+}
+.division1{
+    padding-bottom: 2px;
+    padding-top: 1px;
+}
+.division1{
+    background-color: purple;
+}
+a{
+color: black;
+}
